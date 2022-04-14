@@ -1,2 +1,2 @@
-# Data_TDI
-Prediction of heart attack
+# CamairAI
+Ultrasound on kidney diseases
